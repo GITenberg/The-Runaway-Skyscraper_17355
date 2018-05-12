@@ -1,0 +1,36 @@
+_repo: The-Runaway-Skyscraper_17355
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leinster, Murray
+    aliases:
+    - Jenkins, William Fitzgerald
+    - Jenkins, Will
+    birthdate: 1896
+    deathdate: 1975
+    gutenberg_agent_id: '7321'
+    url: http://www.gutenberg.org/2009/agents/7321
+    wikipedia: http://en.wikipedia.org/wiki/Murray_Leinster
+description: Take an unexpected trip into the past in this gem of golden-era science
+  fiction from Murray Leinster. On what appears to be an ordinary workday, Arthur
+  Chamberlain, a successful engineer based in Manhattan, notices that the sun appears
+  to be traveling backwards in the sky. Chamberlain is the only person who is able
+  to discern the truth of the situation. Can he devise a solution to reverse it in
+  time to save himself and thousands of his coworkers?
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2005-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17355'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: The Runaway Skyscraper
+url: http://www.gutenberg.org/ebooks/17355
